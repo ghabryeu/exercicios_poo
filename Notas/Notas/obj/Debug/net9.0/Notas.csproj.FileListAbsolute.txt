@@ -1,0 +1,14 @@
+C:\Users\gabriel\source\repos\Notas\Notas\bin\Debug\net9.0\Notas.exe
+C:\Users\gabriel\source\repos\Notas\Notas\bin\Debug\net9.0\Notas.deps.json
+C:\Users\gabriel\source\repos\Notas\Notas\bin\Debug\net9.0\Notas.runtimeconfig.json
+C:\Users\gabriel\source\repos\Notas\Notas\bin\Debug\net9.0\Notas.dll
+C:\Users\gabriel\source\repos\Notas\Notas\bin\Debug\net9.0\Notas.pdb
+C:\Users\gabriel\source\repos\Notas\Notas\obj\Debug\net9.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\source\repos\Notas\Notas\obj\Debug\net9.0\Notas.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Notas\Notas\obj\Debug\net9.0\Notas.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Notas\Notas\obj\Debug\net9.0\Notas.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\Notas\Notas\obj\Debug\net9.0\Notas.dll
+C:\Users\gabriel\source\repos\Notas\Notas\obj\Debug\net9.0\refint\Notas.dll
+C:\Users\gabriel\source\repos\Notas\Notas\obj\Debug\net9.0\Notas.pdb
+C:\Users\gabriel\source\repos\Notas\Notas\obj\Debug\net9.0\Notas.genruntimeconfig.cache
+C:\Users\gabriel\source\repos\Notas\Notas\obj\Debug\net9.0\ref\Notas.dll
