@@ -1,0 +1,14 @@
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\bin\Debug\net9.0\Biblioteca2.exe
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\bin\Debug\net9.0\Biblioteca2.deps.json
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\bin\Debug\net9.0\Biblioteca2.runtimeconfig.json
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\bin\Debug\net9.0\Biblioteca2.dll
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\bin\Debug\net9.0\Biblioteca2.pdb
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\obj\Debug\net9.0\Biblioteca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\obj\Debug\net9.0\Biblioteca2.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\obj\Debug\net9.0\Biblioteca2.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\obj\Debug\net9.0\Biblioteca2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\obj\Debug\net9.0\Biblioteca2.dll
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\obj\Debug\net9.0\refint\Biblioteca2.dll
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\obj\Debug\net9.0\Biblioteca2.pdb
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\obj\Debug\net9.0\Biblioteca2.genruntimeconfig.cache
+C:\Users\gabriel\source\repos\poo\Biblioteca2\Biblioteca2\obj\Debug\net9.0\ref\Biblioteca2.dll
