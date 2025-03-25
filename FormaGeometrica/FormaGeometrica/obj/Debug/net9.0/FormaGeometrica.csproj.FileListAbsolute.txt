@@ -1,0 +1,14 @@
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\bin\Debug\net9.0\FormaGeometrica.exe
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\bin\Debug\net9.0\FormaGeometrica.deps.json
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\bin\Debug\net9.0\FormaGeometrica.runtimeconfig.json
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\bin\Debug\net9.0\FormaGeometrica.dll
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\bin\Debug\net9.0\FormaGeometrica.pdb
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\obj\Debug\net9.0\FormaGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\obj\Debug\net9.0\FormaGeometrica.AssemblyInfoInputs.cache
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\obj\Debug\net9.0\FormaGeometrica.AssemblyInfo.cs
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\obj\Debug\net9.0\FormaGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\obj\Debug\net9.0\FormaGeometrica.dll
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\obj\Debug\net9.0\refint\FormaGeometrica.dll
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\obj\Debug\net9.0\FormaGeometrica.pdb
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\obj\Debug\net9.0\FormaGeometrica.genruntimeconfig.cache
+C:\Users\gabriel.constantino\source\repos\FormaGeometrica\FormaGeometrica\obj\Debug\net9.0\ref\FormaGeometrica.dll
