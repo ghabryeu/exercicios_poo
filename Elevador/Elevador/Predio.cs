@@ -3,16 +3,18 @@ using System.Collections.Generic;
 
 public class Predio
 {
-    int[] andares = new int[8];
+    int andares;
+    Elevador elevador;
 
-    public int[] Andares
+    public int Andares
     {
         get { return andares; }
         set { andares = value; }
     }
 
-    public Predio(int[] andares)
+    public Predio()
     {
-        this.andares = andares;
+        this.andares = 8;
+        this.elevador = new Elevador(andares);
     }
 }

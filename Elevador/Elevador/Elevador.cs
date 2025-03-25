@@ -11,6 +11,8 @@ public class Elevador
     int numPessoaMax;
     int numPessoaAtual;
 
+    int qtdAndares;
+
     public bool PortaAbeta
     {
         get { return portaAberta; }
@@ -42,7 +44,13 @@ public class Elevador
         set { numPessoaAtual = value; }
     }
 
-    public Elevador()
+    public int QtdAndares
+    {
+        get { return qtdAndares; }
+        set { qtdAndares = value; }
+    }
+
+    public Elevador(int qtdAndares)
     {
         this.pesoMax = 500;
         this.numPessoaMax = 6;
@@ -50,41 +58,66 @@ public class Elevador
         this.andarAtual = 0;
         this.pesoAtual = 0;
         this.numPessoaAtual = 0;
+        this.qtdAndares = qtdAndares;
     }
 
     public void AbrirPorta()
     {
         PortaAbeta = true;
-        Console.WriteLine("A porta do elevador abriu");
+        Console.WriteLine("\nA porta do elevador abriu");
     }
 
     public void FecharPorta()
     {
         PortaAbeta = false;
-        Console.WriteLine("A porta do elevador fechou");
+        Console.WriteLine("\nA porta do elevador fechou");
     }
 
-    public void Subir(Predio predio)
+    public void Subir(int andar)
     {
-        if(PesoAtual <= PesoMax && NumPessoaAtual <= NumPessoaMax)
+        if (PesoAtual <= PesoMax && NumPessoaAtual <= NumPessoaMax)
         {
-            return;
+            if (PortaAbeta == true)
+            {
+                Console.WriteLine($"\nPorta aberta! Elevador não pode se mover");
+            }
+            else
+            {
+                while (andarAtual < andar)
+                {
+                    Console.WriteLine($"\nSubindo para o andar {andar}");
+                    andarAtual += 1;
+                    Console.WriteLine($"Andar atual: {andarAtual}");
+                }
+            } 
         }
-
-        if(PortaAbeta == false)
+        else
         {
-            return;
+            Console.WriteLine("Peso excedido! Elevador não pode se mover");
         }
-
-        for(int i = AndarAtual; i < predio.Andares.Length; i++)
-        {
-
-        }
-
     }
 
-    public void Descer()
+    public void Descer(int andar)
     {
-
+        if (PesoAtual <= PesoMax && NumPessoaAtual <= NumPessoaMax)
+        {
+            if (PortaAbeta == true)
+            {
+                Console.WriteLine($"\nPorta aberta! Elevador não pode se mover");
+            }
+            else
+            {
+                while (andarAtual > andar)
+                {
+                    Console.WriteLine($"\nDescendo para o andar {andar}");
+                    andarAtual -= 1;
+                    Console.WriteLine($"Andar atual: {andarAtual}");
+                }
+            }
+        }
+        else
+        {
+            Console.WriteLine("Peso excedido! Elevador não pode se mover");
+        }
     }
 }

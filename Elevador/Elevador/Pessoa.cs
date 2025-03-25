@@ -20,21 +20,20 @@ public class Pessoa
     {
         if (elevador.PortaAbeta == false)
         {
-            Console.WriteLine("Elevador disponível");
-            return;
+            Console.WriteLine("\nElevador disponível");
         }
 
         if(andarChamado == elevador.AndarAtual)
         {
-            Console.WriteLine("Elevador já está no andar chamado");
+            Console.WriteLine("\nElevador já está no andar chamado");
         }
         else
         {
-            Console.WriteLine($"Movendo o elevador do andar {elevador.AndarAtual} para o andar {andarChamado}");
+            Console.WriteLine($"\nMovendo o elevador do andar {elevador.AndarAtual} para o andar {andarChamado}");
             elevador.AndarAtual = andarChamado;
         }
 
-        elevador.AbrirPorta();
+        //elevador.AbrirPorta();
     }
 
     public void EntrarElevador(Elevador elevador)
@@ -43,7 +42,8 @@ public class Pessoa
         {
             elevador.NumPessoaAtual++;
             elevador.PesoAtual += peso;
-            Console.WriteLine("Uma pessoa entrou no elevador");
+
+            Console.WriteLine("\nUma pessoa entrou no elevador");
         }
     }
 

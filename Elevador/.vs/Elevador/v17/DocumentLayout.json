@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel.constantino\\Downloads\\exercicios_poo-main\\exercicios_poo-main\\Elevador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|c:\\users\\gabriel.constantino\\downloads\\exercicios_poo-main\\exercicios_poo-main\\elevador\\elevador\\elevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|solutionrelative:elevador\\elevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|c:\\users\\gabriel.constantino\\downloads\\exercicios_poo-main\\exercicios_poo-main\\elevador\\elevador\\predio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|solutionrelative:elevador\\predio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|c:\\users\\gabriel.constantino\\downloads\\exercicios_poo-main\\exercicios_poo-main\\elevador\\elevador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|solutionrelative:elevador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|c:\\users\\gabriel.constantino\\downloads\\exercicios_poo-main\\exercicios_poo-main\\elevador\\elevador\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|solutionrelative:elevador\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|c:\\users\\gabriel.constantino\\downloads\\exercicios_poo-main\\exercicios_poo-main\\elevador\\elevador\\elevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|solutionrelative:elevador\\elevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|c:\\users\\gabriel.constantino\\downloads\\exercicios_poo-main\\exercicios_poo-main\\elevador\\elevador\\predio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6971CF21-F243-4D5F-A1BB-569670D630EA}|Elevador\\Elevador.csproj|solutionrelative:elevador\\predio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Predio.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.constantino\\Downloads\\exercicios_poo-main\\exercicios_poo-main\\Elevador\\Elevador\\Predio.cs",
               "RelativeDocumentMoniker": "Elevador\\Predio.cs",
@@ -38,44 +38,41 @@
               "RelativeToolTip": "Elevador\\Predio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:29:29.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T22:29:29.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Elevador.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.constantino\\Downloads\\exercicios_poo-main\\exercicios_poo-main\\Elevador\\Elevador\\Elevador.cs",
               "RelativeDocumentMoniker": "Elevador\\Elevador.cs",
               "ToolTip": "C:\\Users\\gabriel.constantino\\Downloads\\exercicios_poo-main\\exercicios_poo-main\\Elevador\\Elevador\\Elevador.cs",
               "RelativeToolTip": "Elevador\\Elevador.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAqwG0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwHUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:29:27.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T22:29:27.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.constantino\\Downloads\\exercicios_poo-main\\exercicios_poo-main\\Elevador\\Elevador\\Pessoa.cs",
               "RelativeDocumentMoniker": "Elevador\\Pessoa.cs",
               "ToolTip": "C:\\Users\\gabriel.constantino\\Downloads\\exercicios_poo-main\\exercicios_poo-main\\Elevador\\Elevador\\Pessoa.cs",
               "RelativeToolTip": "Elevador\\Pessoa.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwC8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:29:28.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T22:29:28.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.constantino\\Downloads\\exercicios_poo-main\\exercicios_poo-main\\Elevador\\Elevador\\Program.cs",
               "RelativeDocumentMoniker": "Elevador\\Program.cs",
               "ToolTip": "C:\\Users\\gabriel.constantino\\Downloads\\exercicios_poo-main\\exercicios_poo-main\\Elevador\\Elevador\\Program.cs",
               "RelativeToolTip": "Elevador\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T22:29:30.582Z",
               "EditorCaption": ""
