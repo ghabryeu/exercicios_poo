@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|c:\\users\\gabriel.constantino\\source\\repos\\funcionario\\funcionario\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|solutionrelative:funcionario\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|c:\\users\\gabriel.constantino\\source\\repos\\funcionario\\funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|solutionrelative:funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|c:\\users\\gabriel.constantino\\source\\repos\\funcionario\\funcionario\\funcionariotrabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|solutionrelative:funcionario\\funcionariotrabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|c:\\users\\gabriel.constantino\\source\\repos\\funcionario\\funcionario\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|solutionrelative:funcionario\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|c:\\users\\gabriel.constantino\\source\\repos\\funcionario\\funcionario\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|solutionrelative:funcionario\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|c:\\users\\gabriel.constantino\\source\\repos\\funcionario\\funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|solutionrelative:funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|c:\\users\\gabriel.constantino\\source\\repos\\funcionario\\funcionario\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B05B8F-ECF1-4B12-BC07-A55C1F1272CD}|Funcionario\\Funcionario.csproj|solutionrelative:funcionario\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Empresa.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Empresa.cs",
+              "ToolTip": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Empresa.cs",
+              "RelativeToolTip": "Funcionario\\Empresa.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:00:29.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Gerente.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Gerente.cs",
+              "ToolTip": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Gerente.cs",
+              "RelativeToolTip": "Funcionario\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:58:37.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Designer.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Designer.cs",
+              "RelativeToolTip": "Funcionario\\Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:56:58.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Programador.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Programador.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Programador.cs",
+              "ToolTip": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Programador.cs",
+              "RelativeToolTip": "Funcionario\\Programador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:52:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionarioTrabalhador.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\FuncionarioTrabalhador.cs",
+              "RelativeDocumentMoniker": "Funcionario\\FuncionarioTrabalhador.cs",
+              "ToolTip": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\FuncionarioTrabalhador.cs",
+              "RelativeToolTip": "Funcionario\\FuncionarioTrabalhador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:44:00.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario\\Funcionario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:37:07.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Program.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel.constantino\\source\\repos\\Funcionario\\Funcionario\\Program.cs",
+              "RelativeToolTip": "Funcionario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:36:52.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
